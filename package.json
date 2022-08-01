@@ -1,0 +1,15 @@
+{
+  "name": "@tjseabury/toolbox",
+  "version": "0.0.5",
+  "description": "A toolbox full of utility functions.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tyler Seabury",
+  "license": "MIT"
+}
